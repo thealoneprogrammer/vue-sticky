@@ -1,4 +1,4 @@
-<p align="center"><img src="![blog-sticky-notes-gif-square](https://user-images.githubusercontent.com/38497682/111096551-cf3cee00-8565-11eb-8947-43d0114175ef.gif)
+<p align="center"><img src="https://user-images.githubusercontent.com/38497682/111096551-cf3cee00-8565-11eb-8947-43d0114175ef.gif
 " alt="" width="400px"/></p>
 
 Vue sticky is a simple sticky notes application which can be draggable. Vue sticky is developped using Vue3, TypeScript, Tailwind CSS, Vue composition API.
